@@ -1,0 +1,6 @@
+@RestWithASPNET_Calculator_HostAddress = http://localhost:5014
+
+GET {{RestWithASPNET_Calculator_HostAddress}}/Calculator/
+Accept: application/json
+
+###
